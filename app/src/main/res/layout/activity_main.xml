@@ -50,7 +50,7 @@
         android:layout_centerHorizontal="true"
         android:divider="@drawable/divider"
         android:listSelector="@drawable/selector">
-        
+
 
 
     </ListView>
